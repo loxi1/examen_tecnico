@@ -22,4 +22,5 @@ importar script: archivo db.sql
 ```js
 Levantar el srvicio:
 ```
+![image](https://github.com/loxi1/examen_tecnico/assets/2625404/1380bfb1-84a1-4cc9-8985-17758150dd69)
 
